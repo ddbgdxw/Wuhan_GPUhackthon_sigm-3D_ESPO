@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 scipy
 numpy
 tqdm
 jupyter
+=======
+<<<<<<< HEAD
+scipy
+numpy
+tqdm
+jupyter
+=======
+scipy
+numpy
+tqdm
+jupyter
+>>>>>>> 75e45bb (first commit)
+>>>>>>> 1b4de05 (first commit)
 cupy-cuda11x
