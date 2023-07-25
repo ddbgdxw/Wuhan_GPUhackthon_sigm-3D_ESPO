@@ -1,0 +1,5 @@
+scipy
+numpy
+tqdm
+jupyter
+cupy-cuda11x

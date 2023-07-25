@@ -1,0 +1,4 @@
+TSPolInCM_filter_1  6*6*115*115*19
+TSPolInCM_filter_3  6*6*115*115*54
+TSPolInCM_filter_9  6*6*115*115*135
+TSPolInCM_filter_15 6*6*115*115*180
